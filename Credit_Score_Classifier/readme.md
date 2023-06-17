@@ -6,10 +6,10 @@ The dataset used for training and testing the classifier : https://statso.io/cre
 
 # Requirements
 Make sure you have the following dependencies installed:
-Python 3.7 or above
-scikit-learn
-pandas
-streamlit
+* Python 3.7 or above
+* scikit-learn
+* pandas
+* streamlit
 
 # Model Training
 The random forest classifier is trained using scikit-learn's RandomForestClassifier class. The training code is not included in this repository, as it depends on the specific dataset used.
