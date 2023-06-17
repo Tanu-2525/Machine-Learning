@@ -2,7 +2,7 @@
 This project aims to classify credit card applications using a random forest classifier. The classifier predicts whether an applicant is likely to be approved or rejected based on various features.
 
 # Dataset
-The dataset used for training and testing the classifier is not included in this repository. However, you can use your own dataset or find a suitable dataset from various sources such as Kaggle or UCI Machine Learning Repository.
+The dataset used for training and testing the classifier : https://statso.io/credit-score-classification-case-study/
 
 # Requirements
 Make sure you have the following dependencies installed:
